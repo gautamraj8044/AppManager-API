@@ -11,7 +11,7 @@
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/appmanager-api.git
+   git clone https://github.com/gautamraj8044/AppManager-API.git
    cd appmanager-api
    ```
 
