@@ -1,4 +1,21 @@
 
+## Installation
+
+### Prerequisites
+
+- Python 3.7 or higher
+- Virtual environment (optional, but recommended)
+
+### Steps to Install
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/appmanager-api.git
+   cd appmanager-api
+   ```
+
+
 
 ---
 
